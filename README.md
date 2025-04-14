@@ -7,5 +7,3 @@ Aquí comparto proyectos académicos y personales relacionados principalmente co
 - Talleres y proyectos de **programación orientada a objetos en Java**
 - Desarrollo y entornos web 
 - Ejercicios de estructuras de dato
-
-¡Gracias por visitar! 🚀
