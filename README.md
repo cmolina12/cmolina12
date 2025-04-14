@@ -9,6 +9,4 @@ Aquí comparto proyectos académicos y personales relacionados principalmente co
 - Simulación de procesos con lógica en Java 
 - Ejercicios de estructuras de dato
 
-🧠 Me interesa seguir explorando temas como la **simulación**, la **optimización de operaciones**, y la **automatización**.
-
 ¡Gracias por visitar! 🚀
