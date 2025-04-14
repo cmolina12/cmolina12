@@ -6,7 +6,6 @@ Aquí comparto proyectos académicos y personales relacionados principalmente co
 - Modelos de **optimización** y **análisis cuantitativo** en Python
 - Talleres y proyectos de **programación orientada a objetos en Java**
 - Desarrollo y entornos web 
-- Simulación de procesos con lógica en Java 
 - Ejercicios de estructuras de dato
 
 ¡Gracias por visitar! 🚀
