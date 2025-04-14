@@ -1,4 +1,4 @@
-Bienvenido a mi perfil de GitHub.
+👋 Bienvenido a mi perfil de GitHub.
 
 Aquí comparto proyectos académicos y personales relacionados principalmente con **Ingeniería Industrial** y **Desarrollo de Software**.
 
@@ -9,4 +9,6 @@ Aquí comparto proyectos académicos y personales relacionados principalmente co
 - Simulación de procesos con lógica en Java 
 - Ejercicios de estructuras de dato
 
-¡Gracias por visitar!
+🧠 Me interesa seguir explorando temas como la **simulación**, la **optimización de operaciones**, y la **automatización**.
+
+¡Gracias por visitar! 🚀
