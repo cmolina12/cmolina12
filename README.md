@@ -1,3 +1,4 @@
+👋 ¡Hola!
 Soy estudiante de Ingeniería Industrial e Ingeniería de Sistemas en la Universidad de los Andes. En este perfil comparto proyectos académicos y personales relacionados con:
 
 📊 Modelado y optimización: Desarrollo de métodos cuantitativos para apoyar decisiones en producción, inventarios y logística.
