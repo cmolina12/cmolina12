@@ -1,9 +1,8 @@
-👋 Bienvenido a mi perfil de GitHub.
+Soy estudiante de Ingeniería Industrial e Ingeniería de Sistemas en la Universidad de los Andes. En este perfil comparto proyectos académicos y personales relacionados con:
 
-Aquí comparto proyectos académicos y personales relacionados principalmente con **Ingeniería Industrial** y **Desarrollo de Software**.
+📈 Modelado y optimización: Aplicación de métodos cuantitativos en problemas de producción, inventarios y decisión.
 
-📌 Algunos de los proyectos que puedes encontrar:
-- Modelos de **optimización** y **análisis cuantitativo** en Python
-- Talleres y proyectos de **programación orientada a objetos en Java**
-- Desarrollo y entornos web 
-- Ejercicios de estructuras de dato
+☕ Programación orientada a objetos en Java: Talleres, proyectos universitarios y simulaciones.
+
+🌐 Desarrollo web: Páginas y aplicaciones con HTML, CSS y TypeScript.
+
